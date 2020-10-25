@@ -1,0 +1,27 @@
+{
+  "name": "ejercicios-level",
+  "version": "1.0.0",
+  "description": "- [Backend](https://github.com/hackademymx/frontend-level/blob/master/README-backend.md)   - Resuelvelos con python o nodejs dependiendo de la tecnología que prefieras, los 8 mejores serán los que ocupen los lugares de backend: 4 python y 4 Nodejs - [Frontend](https://github.com/hackademymx/frontend-level/blob/master/README-frontend.md)   - Resuelvelos con Angular o ReactJS dependiendo de la tecnología que prefieras, los 8 mejores serán los que ocupen los lugares de backend: 4 reactjs y 4 angular - [Móvil](https://github.com/hackademymx/frontend-level/blob/master/README-movil.md)   - Resuelvelos usando React Native, los 4 mejores serán los que ocupen los 4 lugares disponibles.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elchapako/ejercicios-level.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elchapako/ejercicios-level/issues"
+  },
+  "homepage": "https://github.com/elchapako/ejercicios-level#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
